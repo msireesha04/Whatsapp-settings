@@ -1,2 +1,2 @@
 settings
-profle picture
+profile picture
